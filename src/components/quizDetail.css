@@ -1,0 +1,13 @@
+.error {
+    color: red;
+}
+.totalScore {
+    color: yellowgreen;
+}
+.Quelabel{
+    color: blue;
+}
+.buttonsGrp{
+    display:flex;
+    justify-content: center;
+}
